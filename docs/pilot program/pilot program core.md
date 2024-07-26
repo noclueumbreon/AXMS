@@ -17,3 +17,5 @@ a "disgraced ex-soldier" is sent back home from the front. she experiences pangs
 - pilot promise
 ##### chapter ideas
 - snow/christmas episode with paxe and time travel pilot. jaded characters in a winter wonderland. chatting. reminiscing in the cold. warming to each other. turning off their heaters just to   feel the biting cold. disaster strikes, or an enemy attack. they have to kill. the warmth and contrasting paradoxical glow of the world disappears after that as they leave, with only the bitter cold remaining. [[pilot program cold episode]]
+##### relevant pilots
+[[looper]]
