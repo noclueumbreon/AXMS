@@ -1,4 +1,8 @@
-#pilot-program
+---
+tags:
+  - pilot-program
+---
+# pilot program core
 ### core concept
 a "disgraced ex-soldier" is sent back home from the front. she experiences pangs of pain until she's driven to sign up for the newly-improved pilot program, and is inducted into their ranks. after she's sent on a suicide mission using a mech she's barely given the time to understand, she discovers she's in a time loop.
 
@@ -11,3 +15,5 @@ a "disgraced ex-soldier" is sent back home from the front. she experiences pangs
 - pilot program
 - pilot progress
 - pilot promise
+##### chapter ideas
+- snow/christmas episode with paxe and time travel pilot. jaded characters in a winter wonderland. chatting. reminiscing in the cold. warming to each other. turning off their heaters just to   feel the biting cold. disaster strikes, or an enemy attack. they have to kill. the warmth and contrasting paradoxical glow of the world disappears after that as they leave, with only the bitter cold remaining. [[pilot program cold episode]]

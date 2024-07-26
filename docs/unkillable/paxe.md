@@ -1,5 +1,10 @@
-#unkillable #pilot
-leader of the resistance, resident no-sleep nonce and dumbass
+---
+tags:
+  - unkillable
+  - pilot
+---
+# paxe
+leader of the resistance, resident no-sleep nonce and dumbass  
 ![[2024-07-26_02-08.png]]
 ##### power
 > **effect**: when killed, she gets back up. limited ability to "heal" entities she considers as herself while still alive.  
