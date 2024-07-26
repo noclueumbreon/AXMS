@@ -3,6 +3,7 @@ uhh yes mech ideas. list. yes
 - mech pilot who repeatedly has to undergo the onboarding process for piloting a mech while in a time loop. weird kink shit. identity death? [[pilot program core]]
 - unkillable [[unkillable core]]
 - mech pilot sent to fantasy world? isekai? thing?
+- mech pilot who's an egg. as is tradition. and their mech figures it out.
 
 # list of character ideas
 - evil mech pilot at the end of the series. eeevil.
@@ -16,4 +17,3 @@ uhh yes mech ideas. list. yes
 	- the two have a mech fight in burned out, hollow shells of mechs. the mechs break down, and they're forced to fight on foot in a snowed-over forest -- damp with the heat of the battle. antipaxe is terrified, shooting her revolver at any stray sound -- and paxe is like a shadow, silent and slipping in between the stilt-like trees.
 	- when they finally come face to face, it's obvious who's going to win.
 	- paxe overpowers antipaxe in both endurance and technical skill. they share an intimate moment as she plunges the knife into antipaxe's heart.
-- 
