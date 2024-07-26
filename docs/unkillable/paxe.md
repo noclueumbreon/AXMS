@@ -1,4 +1,4 @@
-#unkillable
+#unkillable #pilot
 leader of the resistance, resident no-sleep nonce and dumbass
 ![[2024-07-26_02-08.png]]
 ##### power
