@@ -1,4 +1,3 @@
-![[Pasted image 20240725070200.png]]
 ### core concept
 a "disgraced ex-soldier" is sent back home from the front. she experiences pangs of pain until she's driven to sign up for the newly-improved pilot program, and is inducted into their ranks. after she's sent on a suicide mission using a mech she's barely given the time to understand, she discovers she's in a time loop.
 
