@@ -7,7 +7,7 @@
 - her name was unimportant to her. and the onboarding process (not a persona-destructive one, simply the basic training her country gave her) sort of cemented her personality and self as   unimportant. useless. so now she's just axe's pilot. the pilot of axe.
 - once she starts the resistance, people start needing to call her something. she just tells them to call her "pilot of axe", since that's what she is. the first person to join her -- her first lieutenant -- calls her paxe, and the nickname sticks against all odds. when her first lieutenant dies, of age or other reasons, she holds the name close to her chest even though it burns her. it becomes her callsign, too, though she's given nicknames as well.
 
-### traits
+### traits  
 uhh. shes . um. ill have to go write more about her when im not listening to hero.  
 - a distraught individual
 - always a little bit dishevelled. has little regard for her own life until axe comes into it
