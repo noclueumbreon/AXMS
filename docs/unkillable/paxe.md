@@ -1,9 +1,7 @@
 ## power
 
-> effect: when killed, she gets back up. limited ability to "heal" entities she considers as herself while still alive.
-> 
-> color: gold.
-> 
+> effect: when killed, she gets back up. limited ability to "heal" entities she considers as herself while still alive.  
+> color: gold.  
 > reason: she's baked her incessant need to keep moving into her DNA, the things that make her   *her*. it's impossible for her to stop, because she's. her. at once she loves and despises this fact; it's tremendously useful, but the weight of eternity hangs heavy on her mind. and the necessary implication that she can never wait and live out her grief basically locks her into attempted uncaring ignorance for all of time.
 ##### personal info
 - her name was unimportant to her. and the onboarding process (not a persona-destructive one, simply the basic training her country gave her) sort of cemented her personality and self as   unimportant. useless. so now she's just axe's pilot. the pilot of axe.
