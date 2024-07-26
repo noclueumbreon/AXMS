@@ -1,3 +1,4 @@
+#info 
 uhh yes mech ideas. list. yes
 
 - mech pilot who repeatedly has to undergo the onboarding process for piloting a mech while in a time loop. weird kink shit. identity death? [[pilot program core]]
