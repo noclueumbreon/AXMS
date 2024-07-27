@@ -2,7 +2,6 @@
 tags:
   - unkillable
   - mech
-  - info
 ---
 ![[CLIPStudioPaint_JnxYayM888.png]]
 ###### AXE, pre-revolution iteration
