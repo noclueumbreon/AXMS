@@ -5,7 +5,7 @@ tags:
 ---
 # axe's design document
 ![[CLIPStudioPaint_JnxYayM888.png]]
-###### AXE, pre-revolution iteration
+###### AXE, pre-revolution/early-unkillable iteration
 - Squared off, bulky.
 - Armor plates cover critical areas and joints.
 - Fins on back which allow for high-speed maneuvering without the thruster systems of later ApMS models.
@@ -15,3 +15,6 @@ tags:
 - Circular protrusion on left breast is an extended armor compartment for the power core of the mech. Power core can be ejected if necessary.
 - Pilot gets in via the hatch above the "AXMS" plate.
 - Enough space in the head for a repair bay.
+- [ ] Bomb vest collar to protect neck joints.
+- [ ] Make more obviously "handmade"/"custom made". This is an experimental variation of AXE, after all.
+- [ ] 
