@@ -3,6 +3,7 @@ tags:
   - unkillable
   - mech
 ---
+# axe's design document
 ![[CLIPStudioPaint_JnxYayM888.png]]
 ###### AXE, pre-revolution iteration
 - Squared off, bulky.

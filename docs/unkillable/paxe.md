@@ -4,7 +4,7 @@ tags:
   - pilot
 ---
 # paxe
-leader of the resistance, resident no-sleep nonce and dumbass  
+leader of the resistance, resident no-sleep nonce and dumbass. axe lover. do not separate  
 ![[2024-07-26_02-08.png]]
 [[axe]]
 ##### power
